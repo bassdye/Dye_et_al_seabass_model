@@ -4,7 +4,7 @@ The model framework incorporates individual and population level aspects based o
 The population level model consists of a size-structured consumer population with ontogenetic diet shifts and an environment with three resources representing zooplankton, brown shrimp (Crangon crangon) and fish. 
 
 ## Model files
--  See the [model_files folder](https://github.com/bassdye/sea_bass_model/tree/main/model_files) for the model run files.
+-  See the [model_files folder](https://github.com/bassdye/Dye_et_al_seabass_model/tree/main/model_files) for the model run files.
 
 ## Model analysis
 The Escalator Boxcar Train (EBT) program package developed by [André de Roos](https://staff.fnwi.uva.nl/a.m.deroos/index.html) was used to conduct the model simulations.

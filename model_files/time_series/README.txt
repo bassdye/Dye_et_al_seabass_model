@@ -1,0 +1,1 @@
+For time series analysis with varying maximum shrimp population density (Ks) parameter values, adjust the "[46] Carrying capacity shrimp (g*m^2) K_SHRIMP" entry in the .cvf file accordingly. 

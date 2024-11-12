@@ -1,0 +1,110 @@
+"Fixed step size or integration accuracy when adaptive"                      1.0E-6
+"Cohort cycle time interval"                                                 1.0
+"Tolerance value, determining identity with zero"                            1.0E-5
+
+"Maximum integration time"                                               30000.0
+"Output time interval"                                                     250.0
+"Complete state output interval, 0 for none"                                 1.0
+
+"Minimum allowable number of individuals in cohort"                          0.0       
+
+"Relative tolerances for i-state variable #0  age"                           0.0       
+"                        i-state variable #1  bone"                          0.0       
+"                        i-state variable #2  fat"                           0.0       
+"                        i-state variable #3  gonads"                        0.0       
+
+"Absolute tolerances for i-state variable #0"                                0.0       
+"                        i-state variable #1"                                0.0       
+"                        i-state variable #2"                                0.0       
+"                        i-state variable #3"                                0.0       
+
+"[ 0]  Number of days in one year 			  YEAR"            250
+
+"[ 1]  Environmental temperature 		          TEMP"       	    21
+"[ 2]  Temperature sin function mean value                T_MEAN"           14.3
+"[ 3]  Temperature sin function amplitude                 T_A"               5.25
+"[ 4]  Temperature sin function phase shift               T_OMEGA"         187
+
+"[ 5]  Date of spawning decision                          SPAWNSET"        200
+"[ 6]  Date of maximum spawning                           SPAWNMAX"          0.5
+"[ 7]  Duration of spawning period                        SPAWNPERIOD"       1
+"[ 8]  Grouping period of newborn                         SPAWNGROUP"       10.0
+
+"[ 9]  Duration of egg period                             EGGPERIOD"         7
+"[10]  Age at first feeding                               AGEFEEDING"       13 
+"[11]  Total weight at birth                              BIRTHWEIGHT"       5.71E-4 
+"[12]  Maturation length                                  MATURELEN"        42
+ 
+"[13]  Starvation condition threshold                     QS"                0.2
+"[14]  Juvenile condition target                          QJ"                0.8
+"[15]  Adult condition target                             QA"                1.2
+"[16]  Threshold condition for spawning                   QSPAWN"            0.8
+
+"[17]  Background mortality                               MUB"               0.01
+"[18]  Size-dependent mortality constant                  MUSDC"             0.0
+"[19]  Size-dep. mortality characteristic size            MUSDMASS"          0.0
+"[20]  Starvation mortality constant                      MUS"               0.2
+"[21]  Egg mortality                                      EGGMORT"           0.3
+"[22]  Mortality of yolk-sac larvae                       YOLKMORT"          0.0
+
+"[23]  Conversion efficiency                              CONVEFF"           0.65
+"[24]  Reproductive conversion efficiency                 REPROEFF"          0.5
+ 
+"[25]  Weight-length(!) scaling constant                  LWC"               3.68
+"[26]  Weight-length scaling exponent                     LWE"               0.366
+
+"[27]  Maintenance scaling constant                       MAINTC"            0.03
+"[28]  Maintenance scaling exponent                       MAINTE"            0.79
+
+"[29]  Allometric scalar of Qm; metabolism                GA_M"              1.8
+"[30]  Allometric exponent of Qm; metabolism              THETA_M"           0.077
+"[31]  Allometric scalar of Tmax; metabolism              YMAX_M"           34.0
+"[32]  Allometric exponent of Tmax; metabolism            VMAX_M"	    -0.044
+"[33]  Allometric scalar of Topt; metabolism              YOPT_M" 	    24.75
+"[34]  Allometric exponent of Topt; metabolism            VOPT_M"           -0.03
+
+"[35]  Simple ingestion time scaling constant             INGEST_C"          0.3
+"[36]  Simple ingestion time scaling exponent             INGEST_E"          0.549
+
+"[37]  Allometric scalar of Qa; ingestion                 GA_A"              2.16
+"[38]  Allometric exponent of Qa; ingestion               THETA_A"           0.07
+"[39]  Allometric scalar of Tmax; ingestion	          YMAX_A"           34.5
+"[40]  Allometric exponent of Tmax; ingestion             VMAX_A"	    -0.042
+"[41]  Allometric scalar of Topt; ingestion               YOPT_A" 	    28.5
+"[42]  Allometric exponent of Topt; ingestion             VOPT_A"           -0.044
+
+"[43]  Growth rate zooplankton                            R_PLANKTON"        0.05
+"[44]  Carrying capacity zoopl (g*m^3)                    K_PLANKTON"        1.0
+
+"[45]  Growth rate shrimp                                 R_SHRIMP"          0.05
+"[46]  Carrying capacity shrimp (g*m^2)                   K_SHRIMP"         10.0
+
+"[47]  Growth rate fish                                   R_FISH"            0.05
+"[48]  Carrying capacity fish (g*m^2)                     K_FISH"            0.5
+
+"[49]  Length to begin diet shift to shrimp               BEGIN_SHRIMP"      5.0
+"[50]  Length at 50% benthivory of shrimp                 HALF_SHRIMP"      10.0
+"[51]  Length at full diet shift to shrimp                END_SHRIMP"       20.0
+"[52]  Length to begin diet shift to piscivory	          BEGIN_FISH"	    30.0
+"[53]  Length at 50% piscivory 		                  HALF_FISH"        35.0
+
+"[54]  Constant feeding level   	                  FEEDING_LEVEL"     1
+
+"[55]  Resource sin function mean value                   R_MEAN"            0.9
+"[56]  Resource sin function amplitude                    R_A"               0.05
+"[57]  Resource sin function phase shift                  R_OMEGA"         187
+
+"[58]  Temperature sin function mean value                T_MEAN_HEAT"     -28.0
+"[59]  Temperature sin function amplitude                 T_A_HEAT"         50.0
+"[60]  Start of heat wave                                 START_HW"         86.0
+"[61]  End of heat wave                                   END_HW"          107.0
+"[62]  Temperature function phase shift                   T_OMEGA_HEAT"    214
+
+"[63]  Minimum winter temperature of mature fish          T_ADULT_MIN"      9
+
+"Index of the bifurcation parameter                                   "	      46
+"Step size in the bifurcation parameter                               "	      0.001
+"Final value of the bifurcation parameter                             "	     1.4
+"Linear (0) or logarithmic (1) parameter change                       "	      0
+"Period of output generation in bifurcation                           "    2500.0
+"Period of state output in bifurcation                                "	      0.0

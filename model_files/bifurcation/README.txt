@@ -1,0 +1,1 @@
+For bifurcation analysis with varying maximum fish population density (Kf) parameter values, adjust the "[48] Carrying capacity fish (g*m^2) K_FISH"" entry in the .cvf file accordingly. 

@@ -10,3 +10,13 @@ The population level model consists of a size-structured consumer population wit
 The Escalator Boxcar Train (EBT) program package developed by [André de Roos](https://staff.fnwi.uva.nl/a.m.deroos/index.html) was used to conduct the model simulations.
 - The EBT package software for model analysis is available [here](https://staff.fnwi.uva.nl/a.m.deroos/EBT/Software/index.html). 
 - EBT package software documentation is available [here](https://staff.fnwi.uva.nl/a.m.deroos/EBT/Documentation/index.html).
+
+## Dye et al. 202X publication
+Title XXX
+
+Submitted to XXX
+
+Abstract
+`
+
+`

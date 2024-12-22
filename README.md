@@ -15,7 +15,7 @@ The Escalator Boxcar Train (EBT) program package developed by [André de Roos](h
 ## Dye & van Leeuwen 202X publication
 European sea bass dynamics shaped by more than warming seas
 
-Submitted to XXX
+Submitted to Fish and Fisheries
 
 Abstract
 `Global environmental changes are reshaping species distributions, with some species experiencing range contractions while others expand into new territories, particularly in response to rising sea temperatures. The European sea bass, a warm-water species, has shown a pronounced northward range expansion into the North Sea and adjacent coastal habitats in recent decades, potentially altering local food webs in these ecosystems. To investigate the dynamics of this process, we applied a consumer-resource model representing sea bass and the three key prey resources associated with its ontogenetic diet shifts, aiming to explore empirically derived expectations for sea bass population trends. We then compared our findings with a long-term, high-resolution time series for European sea bass in the southern North Sea. Contrary to the prevailing view that rising water temperatures primarily drive coastal ecosystem dynamics in the Anthropocene, our findings suggest that additional factors significantly influence these changes.

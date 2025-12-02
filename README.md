@@ -4,7 +4,7 @@ The model framework incorporates individual and population level aspects based o
 The population level model consists of a size-structured consumer population with ontogenetic diet shifts and an environment with three resources representing zooplankton, brown shrimp (Crangon crangon) and fish. 
 
 ## Model files
--  See the model_files folder for the model run files to conduct bifurcation and time series analysis.
+-  See the model_files folders for the model run files to conduct bifurcation and time series analysis.
     - Files for decadel temperature regimes (1980s, 2010s) are located in separate subfolders.
 
 ## Model analysis

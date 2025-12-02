@@ -1,4 +1,4 @@
-# Dye_et_al_sea_bass_model
+# Seabass population model
 Size-specific, temperature-dependent, energy budget model parameterized for the European sea bass (Dicentrarchus labrax). 
 The model framework incorporates individual and population level aspects based on the consumer-resource model described by Persson et al. (1998) and the temperature-dependent scaling formulation in Karås and Thoresson (1992) and Ohlberger et al. (2011).
 The population level model consists of a size-structured consumer population with ontogenetic diet shifts and an environment with three resources representing zooplankton, brown shrimp (Crangon crangon) and fish. 
@@ -12,7 +12,7 @@ The Escalator Boxcar Train (EBT) program package developed by [André de Roos](h
 - The EBT package software for model analysis is available [here](https://staff.fnwi.uva.nl/a.m.deroos/EBT/Software/index.html). 
 - EBT package software documentation is available [here](https://staff.fnwi.uva.nl/a.m.deroos/EBT/Documentation/index.html).
 
-## Dye et al. 202X publication
+## 202X publication
 European sea bass dynamics shaped by more than warming seas
 
 Submitted to Oikos

@@ -13,7 +13,7 @@ The Escalator Boxcar Train (EBT) program package developed by [André de Roos](h
 - EBT package software documentation is available [here](https://staff.fnwi.uva.nl/a.m.deroos/EBT/Documentation/index.html).
 
 ## 202X publication
-European sea bass dynamics shaped by more than warming seas
+European sea bass dynamics are shaped by more than warming seas
 
 Submitted 
 
